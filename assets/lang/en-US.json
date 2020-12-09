@@ -1,0 +1,19 @@
+{
+  "/": {
+    "name": "Root"
+  },
+  "/main": {
+    "name": "Main"
+  },
+  "/home": {
+    "name": "Home"
+  },
+  "/setting": {
+    "name": "Setting",
+    "language": "Language",
+    "theme": "Theme",
+    "lang_th": "Thai",
+    "lang_en": "English"
+  },
+  "app_name": "Boiler Plate 2"
+}
